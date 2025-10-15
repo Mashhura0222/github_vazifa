@@ -1,6 +1,6 @@
 import React from 'react'
 
-const SingleRoutes = () => {
+const Customers = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const SingleRoutes = () => {
   )
 }
 
-export default SingleRoutes
+export default Customers
