@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { products } from "../../mock/Index";
+import { products } from "../../mock/index";
 import { IoIosStar } from "react-icons/io";
 import "./Gulsaanm.css"
 
