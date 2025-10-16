@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Laylo.css"
 import logo from "../../assets/SHOP.CO.png"
-import { IoLogoTwitter } from "react-icons/io";
+import { IoLogoTwitter } from "react-icons/io5";
 import { FaFacebookF } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
