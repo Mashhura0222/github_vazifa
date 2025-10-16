@@ -1,0 +1,134 @@
+.browse {
+  max-width: 100%;
+
+  padding: 80px 88px;
+}
+
+.dress_div {
+  background: rgba(240, 240, 240, 1);
+padding: 90px;
+  border-radius: 40px;
+}
+.dress_h1 {
+  width: 687px;
+  height: 58px;
+  opacity: 1;
+
+  font-family: Integral CF;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+
+
+  text-align: center;
+  vertical-align: middle;
+}
+.browse_div{
+  padding: 20px 20px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(2,1fr);
+  gap: 40px;
+}
+.casual_box {
+  width: 400px;
+  height: 289px;
+  border-radius: 20px;
+
+}
+.casual_img {
+  width: 400px;
+  height: 289px;
+  border-radius: 20px;
+}
+.casual_p{
+  position: relative;
+  top: 50px;
+  left: 36px;
+  font-size: 28px;
+  font-weight: 700;
+  z-index: 2;
+  margin: 0;
+  color: #000000;
+}
+.formal_box{
+  width: 400px;
+height: 289px;
+position: relative;
+left:-100px;
+
+border-radius: 20px;
+
+}
+.formal_img{
+  width: 590px;
+height: 289px;
+
+opacity: 1;
+top: 192px;
+left: 491px;
+border-radius: 20px;
+
+}
+.formal_p{
+  position: relative;
+  top: 50px;
+  left: 36px;
+  font-size: 28px;
+  font-weight: 700;
+  z-index: 2;
+  margin: 0;
+  color: #000000;
+}
+.party_box{
+    width:500px;
+height: 289px;
+
+opacity: 1;
+top: 192px;
+left: 491px;
+border-radius: 20px;
+
+}
+.party_img{
+    width: 540px;
+height: 289px;
+
+opacity: 1;
+top: 192px;
+left: 491px;
+border-radius: 20px;
+
+}
+.party_p{
+  position: relative;
+  top: 50px;
+  left: 36px;
+  font-size: 28px;
+  font-weight: 700;
+  z-index: 2;
+  margin: 0;
+  color: #000000;
+}
+.gym_box{
+   width: 410px;
+  height: 289px;
+  border-radius: 20px;
+position: relative;
+left:40px;
+}
+.gym_img {
+  width: 450px;
+  height: 289px;
+  border-radius: 20px;
+}
+.gym_p{
+  position: relative;
+  top: 50px;
+  left: 36px;
+  font-size: 28px;
+  font-weight: 700;
+  z-index: 2;
+  margin: 0;
+  color: #000000;
+}
