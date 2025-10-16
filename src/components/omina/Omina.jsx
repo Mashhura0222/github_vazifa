@@ -1,4 +1,4 @@
-import "./Navbar.css"
+import "./Omina.css"
 import image from '../../assets/shop.co1.png'
 import logo from "../../assets/SHOP.CO3.png"
 import { FaSearch } from "react-icons/fa";
